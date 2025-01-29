@@ -52,7 +52,7 @@ Press **L** or **l** to resume a previously saved game. Press **N** or **n** to 
 - Designed for **two players**; no AI opponent is included.
 
 ## Contributor
-- **SP24-BCS-142 - Abdullah Jan**
+- **Abdullah Jan**
 
 
 ## License
